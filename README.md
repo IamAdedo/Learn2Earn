@@ -73,6 +73,7 @@ The lifecycle of a Learn2Earn Fellow follows a precise, merit-based selection an
 The lifecycle of a Learn2Earn Fellow follows a precise, merit-based selection and training sequence:
 
 [ Apply via Game ] ──> [ The Piscine ] ──> [ Core Fellowship ] ──> [ 2-Yr Job Offer ]
+
 (1.5 - 2 Hours)         (1 Month Onsite)      (Intensive Tracks)      (Remote / Global)
 
 
