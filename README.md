@@ -298,6 +298,3 @@ To deepen your research, keep track of these essential channels:
 
 ***
 *This Information Hub is curated openly by the developer community. If you notice inaccuracies, updated timelines, or structural changes regarding Learn2Earn.ng, please open an Issue or submit a Pull Request to keep this repository updated.*
-
-
----
