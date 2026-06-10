@@ -56,15 +56,6 @@ Learn2Earn is architected for **unemployed or underemployed school leavers, grad
 
 > **Note:** Zero prior coding experience or tech backgrounds are required to apply. The ecosystem is explicitly optimized to identify and scale **raw talent and tenacity**, not existing technical credentials.
 
----
-
-## 🚀 Ecosystem Architecture & Program Flow
-
-The lifecycle of a Learn2Earn Fellow follows a precise, merit-based selection and training sequence:
-
-[ Apply via Game ] ──> [ The Piscine ] ──> [ Core Fellowship ] ──> [ 2-Yr Job Offer ]
-(1.5 - 2 Hours)         (1 Month Onsite)      (Intensive Tracks)      (Remote / Global)
-
 
 ---
 
@@ -72,14 +63,17 @@ The lifecycle of a Learn2Earn Fellow follows a precise, merit-based selection an
 
 The lifecycle of a Learn2Earn Fellow follows a precise, merit-based selection and training sequence:
 
-[ Apply via Game ] ──> [ The Piscine ] ──> [ Core Fellowship ] ──> [ 2-Yr Job Offer ]
+[ Apply via Game ] ──> [ The Piscine ] ──> [ Core Fellowship ] ──> [ 2-Yr Job Offer ] [br]
 
 (1.5 - 2 Hours)         (1 Month Onsite)      (Intensive Tracks)      (Remote / Global)
 
 
 1. **The Logic Challenge:** Applicants play an interactive web-based logic game (taking roughly 1.5 to 2 hours) to assess baseline problem-solving capacity and computational thinking.
+
 2. **The Piscine (The Pool):** A high-intensity, immersive 1-month onsite boot camp. Candidates dive into deep peer-to-peer programming challenges designed to test grit, teamwork, and baseline adaptability.
+
 3. **The Core Fellowship:** Selected fellows undergo rigorous digital skills training, focusing deeply on full-stack frameworks, AI workflows, and collaborative environment pipelines (Git, CI/CD).
+
 4. **Active Deployment:** Upon clearing milestones, fellows instantly transition into their guaranteed 2-year paid work placement, executing on remote developer tracks or local enterprise positions.
 
 ---
@@ -89,7 +83,7 @@ The lifecycle of a Learn2Earn Fellow follows a precise, merit-based selection an
 The training pipeline integrates technical precision with real-world, commercial execution models:
 
 | Track | Core Focal Tech | Focus Areas |
-| :--- | :--- | :--- |
+| :-- | :--- | :----- |
 | **AI & Machine Learning** | Python, PyTorch, LLM APIs, Vector DBs | AI-native applications, automation, predictive modeling, data processing pipelines. |
 | **Full-Stack Development** | JavaScript/TypeScript, Go, Node.js, React | Scalable web architectures, database management, peer-to-peer system scaling. |
 | **Web3 & Cryptography** | Solidity, Rust, Smart Contracts | Decentralized infrastructure, secure consensus mechanics, protocol auditing. |
@@ -100,17 +94,6 @@ The training pipeline integrates technical precision with real-world, commercial
 
 🌐 Ecosystem InfrastructureThe Learn2Earn digital environment relies on a scalable micro-architecture designed to deliver fluid training, progress metrics, and low-latency interaction:Core Platform Engine (eDash): The internal enrollment and modular dashboard running student performance analytics, milestone logs, and peer-review queuing mechanics.AI Companion Integration: Powered by localized assistant models to provide real-time, trauma-informed emotional, technical, and debugging support for students navigating intense coding sprints.  Automated Evaluation Pipelines: Robust testing engines that evaluate submitted code blocks against performance benchmarks, ensuring instant feedback loops without administrative bottlenecks.
 
-
----
-
-## 🛠️ Getting Started & Installation
-
-For developers looking to contribute to the underlying open-source modules or fellows setting up their foundational environments, follow this standard setup sequence.
-
-### Prerequisites
-* Ensure your local system environment runs Unix-like patterns (Linux/macOS or Windows with WSL2 installed).
-* Python `3.10+` or Go `1.21+` installed locally (depending on your specific track assignment).
-* Git configured with SSH validation.
 
 ---
 🌐 Ecosystem Infrastructure
