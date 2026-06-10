@@ -6,6 +6,8 @@
 
 Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem designed to transform raw human tenacity into elite, globally competitive technical talent. Operating on a 100% scholarship model, the platform eliminates traditional tuition barriers, identifies high-potential individuals through gamified selection tests, and offers an integrated transition from intensive learning directly into guaranteed 2-year paid job contracts.
 
+> **⚠️ Disclaimer:** This repository is an independent, community-driven initiative. It is not officially affiliated with, endorsed by, or maintained by Learn2Earn.ng or its core management team. All information is compiled from publicly available data, program announcements, and participant experiences.
+
 ---
 
 ## 📌 Table of Contents
@@ -89,10 +91,6 @@ The training pipeline integrates technical precision with real-world, commercial
 | **Web3 & Cryptography** | Solidity, Rust, Smart Contracts | Decentralized infrastructure, secure consensus mechanics, protocol auditing. |
 | **Digital Marketing Growth** | Analytics, SEO, Automated Funnels | Tech-driven data-driven growth strategies, product market positioning. |
 
----
-
-
-🌐 Ecosystem InfrastructureThe Learn2Earn digital environment relies on a scalable micro-architecture designed to deliver fluid training, progress metrics, and low-latency interaction:Core Platform Engine (eDash): The internal enrollment and modular dashboard running student performance analytics, milestone logs, and peer-review queuing mechanics.AI Companion Integration: Powered by localized assistant models to provide real-time, trauma-informed emotional, technical, and debugging support for students navigating intense coding sprints.  Automated Evaluation Pipelines: Robust testing engines that evaluate submitted code blocks against performance benchmarks, ensuring instant feedback loops without administrative bottlenecks.
 
 
 ---
@@ -125,14 +123,10 @@ A: Global full-stack and AI engineering tracks routinely command starting salari
 
 
 
-# Create your `README.md` file using the template below:
-
-
 # Unofficial Learn2Earn Nigeria (Learn2Earn.ng) Information Hub
 
 A comprehensive, third-party knowledge repository, research document, and navigation guide for the Learn2Earn Nigeria ecosystem. 
 
-> **⚠️ Disclaimer:** This repository is an independent, community-driven initiative. It is not officially affiliated with, endorsed by, or maintained by Learn2Earn.ng or its core management team. All information is compiled from publicly available data, program announcements, and participant experiences.
 
 ---
 
