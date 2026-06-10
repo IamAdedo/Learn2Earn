@@ -141,15 +141,10 @@ Q: What are the salary expectations after graduating the fellowship?
 A: Global full-stack and AI engineering tracks routinely command starting salaries matching international remote developer standards, empowering tech professionals to earn highly competitive global rates while remaining inside Nigeria.
 
 
-Since you are a third party looking to build a comprehensive information hub, the README needs to act as a **definitive crowdsourced manual**. It shouldn't read like a marketing brochure from their internal team; instead, it should read like a highly organized, objective "Knowledge Base" or "Wiki" compiled by an independent observer for candidates, researchers, and tech enthusiasts.
-
-Here is a meticulously structured, information-heavy `README.md` that serves as a single source of truth for anyone researching Learn2Earn.ng.
-
----
 
 # Create your `README.md` file using the template below:
 
-```markdown
+
 # Unofficial Learn2Earn Nigeria (Learn2Earn.ng) Information Hub
 
 A comprehensive, third-party knowledge repository, research document, and navigation guide for the Learn2Earn Nigeria ecosystem. 
@@ -304,12 +299,6 @@ To deepen your research, keep track of these essential channels:
 ***
 *This Information Hub is curated openly by the developer community. If you notice inaccuracies, updated timelines, or structural changes regarding Learn2Earn.ng, please open an Issue or submit a Pull Request to keep this repository updated.*
 
-```
 
 ---
 
-### Why this structure works perfectly for a Third-Party repo:
-
-1. **Clear Boundaries:** The prominent **Disclaimer** immediately tells visitors that you are an independent party, which actually *increases* your credibility as an objective informational hub.
-2. **The "Why" Section:** It addresses the economic context of Nigeria, making it deeply valuable for anyone looking at the platform from a macro perspective.
-3. **The Unfiltered "What to Expect" Section:** Because you don't work for them, you can offer a realistic overview of the "mental demands" and "drop-out rates," making this the ultimate honest guidebook for future applicants.
