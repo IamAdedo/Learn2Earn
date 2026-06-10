@@ -10,6 +10,11 @@ Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem d
 
 ---
 
+## 📌 Executive Overview
+Learn2Earn.ng is an alternative, zero-tuition tech talent accelerator in Nigeria operating on a peer-to-peer learning model heavily inspired by global avant-garde software engineering institutions (such as the famous French-born *42* network). By replacing traditional lectures, fees, and resume requirements with an algorithmic logic game and an intensive immersion bootcamp, the platform isolates raw problem-solving capability and converts it into enterprise-grade technical talent.
+
+---
+
 ## 📌 Table of Contents
 - [Vision & Mission](#-vision--mission)
 - [The Problem We Solve](#-the-problem-we-solve)
@@ -109,11 +114,11 @@ Automated Evaluation Pipelines: Robust testing engines that evaluate submitted c
 💬 Frequently Asked Questions (FAQs)
 Q: Do I need to pay anything to participate or play the selection game?
 A: No. The selection game, the intensive Piscine, core training paths, and mentorship models are 100% free. The program operates under an outcome-aligned ethos where costs are only recovered post-graduation when you are actively earning.  
-APPLiso
+
 
 Q: I have absolutely no background in software engineering. Can I apply?
 A: Yes. The entry game does not check your syntax knowledge or knowledge of programming frameworks; it measures your logic, pattern recognition, and capacity to persist through complex challenges.  
-APPLiso
+
 
 Q: How long does the selection phase take?
 A: Most candidates complete the primary online logic game in 1.5 to 2 hours. You can complete this phase at your own pace over a designated open-application window.
@@ -125,13 +130,11 @@ A: Global full-stack and AI engineering tracks routinely command starting salari
 
 # Unofficial Learn2Earn Nigeria (Learn2Earn.ng) Information Hub
 
-A comprehensive, third-party knowledge repository, research document, and navigation guide for the Learn2Earn Nigeria ecosystem. 
+ 
 
 
 ---
 
-## 📌 Executive Overview
-Learn2Earn.ng is an alternative, zero-tuition tech talent accelerator in Nigeria operating on a peer-to-peer learning model heavily inspired by global avant-garde software engineering institutions (such as the famous French-born *42* network). By replacing traditional lectures, fees, and resume requirements with an algorithmic logic game and an intensive immersion bootcamp, the platform isolates raw problem-solving capability and converts it into enterprise-grade technical talent.
 
 ---
 
