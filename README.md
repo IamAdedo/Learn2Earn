@@ -5,7 +5,7 @@
 [![Focus](https://img.shields.io/badge/Focus-AI%20%26%20FullStack%20Engineering-orange?style=for-the-badge)](https://learn2earn.ng)
 
 
-Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem, it combines 01Edu's globally recognized, project-based curriculum with TN Macaulay's talent network to prepare you for real-world careers. It is designed to transform raw human tenacity into elite, globally competitive software engineering talent. Operating on a 100% scholarship model, the platform eliminates traditional tuition barriers, identifies high-potential individuals through gamified selection tests, and offers an integrated transition from intensive learning directly into multi-year career pathways, and offers an integrated transition from intensive learning directly into guaranteed 2-year paid job contracts.
+Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem, it combines *01Edu*'s globally recognized, project-based curriculum with *TN Macaulay*'s talent network to prepare you for real-world careers. It is designed to transform raw human tenacity into elite, globally competitive software engineering talent. Operating on a 100% scholarship model, the platform eliminates traditional tuition barriers, identifies high-potential individuals through gamified selection tests, and offers an integrated transition from intensive learning directly into multi-year career pathways, and offers an integrated transition from intensive learning directly into guaranteed 2-year paid job contracts.
 
 
 > **⚠️ Disclaimer:** This repository is an independent, community-driven initiative. It is not officially affiliated with, endorsed by, or maintained by Learn2Earn.ng, its core management team, or 01Edu. All information is compiled from publicly available data, program announcements, and participant experiences.
@@ -117,11 +117,23 @@ Learn2Earn is architected for **unemployed or underemployed school leavers, grad
 
 The full trajectory spans a structured **4-year pipeline** split cleanly between skill transformation and enterprise integration:
 
-```
-[ Phase 1: Logic Test ] ──> [ Phase 2: The Piscine ] ──> [ Phase 3: Core Training ] ──> [ Phase 4: Enterprise Loop ]
- (90-Min Gamified App)       (4-Week Onsite Audition)       (18-Mo Foundation + 6-Mo Branch)     (2-Yr Paid Work Contracts)
 
-```
+Phase 1: Logic Test
+(90-Min Gamified App)                 
+
+
+Phase 2: The Piscine
+(4-Week Onsite Audition)
+
+
+Phase 3: Core Training
+(18-Mo Foundation + 6-Mo Branch)
+
+
+Phase 4: Enterprise Loop
+(2-Yr Paid Work Contracts)
+
+
 
 ### Phase 1: The Online Logic Challenge
 
@@ -175,6 +187,7 @@ If you are evaluating this program as an outsider or prospective applicant, keep
 
 
 
+
 ---
 
 ## 💬 Frequently Asked Questions (FAQs)
@@ -183,30 +196,40 @@ If you are evaluating this program as an outsider or prospective applicant, keep
 
 A: No. The entrance games require no writing of code or understanding of syntax. They are designed to test your memory, capacity for pattern recognition, and processing efficiency.
 
+
 **Q: How can the fellowship be completely free while paying stipends?**
 
 A: The program operates on a highly scalable, sustainable talent agency model. By running a lean operational team on campus and integrating directly with global enterprises through *Talent Nation*, the costs are fully recovered through post-graduation engineering partnerships.
+
 
 **Q: What happens if someone fails the Piscine selection camp?**
 
 A: The Piscine is a high-volume trial; candidates who do not secure a spot in the core fellowship still leave with an intense 4 weeks of foundational programming exposure and a baseline understanding of digital engineering pipelines.
 
+
 **Q: Do I need to know AI before joining?**
+
 A: No. We build AI engineers from scratch. If you have the logic and the grit, we provide the AI-native environment to help you master the craft.
 
+
 **Q: Why the focus on AI?**
+
 A: AI is the most significant technological shift since the internet. To be competitive in the global job market, you must be more than a coder; you must be an AI-native engineer.
 
 We would get you ready for that future starting today.
 
+
 **Q: How do I join Learn2Earn?**
+
 A: Start by playing our free, fun online selection game — it tests your logic, memory, and problem-solving skills.
 
 If you pass, you'll be invited to join the Trials — a 30-day, in-person coding bootcamp that challenges your grit, collaboration, and learning ability.
 
 Only top performers from the Trials are admitted into the full Learn2Earn program. Think you've got what it takes? [Play the game](https://auth.learn2earn.ng/register).
 
+
 **Q: Is there an enrolment or application fee?**
+
 A: No — there are no fees at all. The selection game, the training programme, and the job placement are completely free to you.
 
 Instead of paying tuition upfront, you repay the cost of your free education by joining our global talent agency after graduation, where you'll work on exciting international tech projects for a minimum period of 2 years.
@@ -215,6 +238,7 @@ It's your chance to gain real-world experience, earn a salary, and give back.
 
 
 **Q: How does the selection process work?**
+
 A: It starts with our online selection game — a free, fun challenge designed to test your logic, memory, and problem-solving skills.
 
 If you perform well, you'll be invited to the Trials — a 30-day, in-person coding bootcamp held at one of our campuses.
@@ -225,46 +249,64 @@ Only the top performers from the Trials are selected to join the full Learn2Earn
 
 Ready to take the first step?  [Play the game](https://auth.learn2earn.ng/register).
 
-**How long does it take to complete the game?**
+
+**Q: How long does it take to complete the game?**
+
 A: The game takes about 90 minutes to complete. Most players finish within a few hours to a couple of days, depending on how much time they spend on it.
 
 Top performers often complete it in 1-2 hours, but you're free to take breaks and play at your own pace.
 
 
 **Q: What does Learn2Earn provide during training?**
+
 A: During the training phase, Learn2Earn provides:
-Full-time technical training on a world-class learning platform
-Access to learning infrastructure and campus facilities
-A desktop or laptop computer for programme use
+* Full-time technical training on a world-class learning platform
+
+* Access to learning infrastructure and campus facilities
+
+* A desktop or laptop computer for programme use
 
 
 **Q: Do you own the computer they receive?**
+
 A: No, not by default.
 
 You are expected to care for the device and ensure it's in good condition at the end of the programme.
 
 In some cases, you may be offered the option to retain the device by paying it down in installments over up to 24 months.
 
+
 **Q: Is the programme full-time?**
+
 A: Yes.
 
 Learn2Earn is an intensive, full-time programme. You are expected to:
-Show up every day
-Be punctual, focused, and engaged
-Treat the programme like a professional commitment
+* Show up every day
+* Be punctual, focused, and engaged
+* Treat the programme like a professional commitment
+
 This level of commitment is essential to achieving the outcomes we promise.
 
 
 **Q: What happens if you decide to leave during training?**
+
 A: You are free to leave at any time during training if you decide the programme is not right for you.
 
 If you leave before certification, you are not required to pay anything. Your place will be offered to another learner who wants the opportunity.
 
+
 **Q: What happens after I complete training and get certified?**
+
 A: Once you are trained and certified:
-Real, employable value has been created.
-At this point, you are expected to pay the opportunity forward so the next learner can be trained.
+
+* Real, employable value has been created.
+* At this point, you are expected to pay the opportunity forward so the next learner can be trained.
+
 This happens primarily through paid work.
+
+
+
+
 
 
 Still have questions?
@@ -275,5 +317,3 @@ Still have questions?
 
 
 *This Information Hub is curated openly by the developer community. If you notice inaccuracies, updated timelines, or structural changes regarding Learn2Earn.ng, please open an Issue or submit a Pull Request to keep this repository updated.*
-
-
