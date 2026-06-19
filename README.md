@@ -14,7 +14,7 @@ Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem, 
 
 ## 📌 Executive Overview
 
-Learn2Earn.ng is a zero-tuition tech talent accelerator operating physical [campuses across Nigeria](https://github.com/IamAdedo/Learn2Earn/blob/main/campuses.md). The program leverages the **01Edu platform and pedagogy**—honed over 25 years by pioneers like Nicolas Sadirac—to completely eliminate traditional lecture structures, teachers, and classrooms.
+Learn2Earn.ng is a zero-tuition tech talent accelerator operating physical [campuses across Nigeria](https://github.com/IamAdedo/Learn2Earn/blob/main/campuses.md). The program leverages the **01Edu platform and pedagogy**—honed over 25 years by pioneers like Nicolas Sadirac, to completely eliminate traditional lecture structures, teachers, and classrooms.
 
 By treating software engineering as an interactive, high-level trade requiring computational grit rather than formal university credentials, the platform isolates raw problem-solving capability. Using a methodology called **Creative Confrontation**, it trains highly autonomous, AI-native developers capable of navigating changing tech landscapes at scale.
 
@@ -51,8 +51,7 @@ The platform is engineered around globally proven pedagogical architectures buil
 
 * **100% Scholarship + Stipends:** Zero upfront tuition fees (₦0.00). The entrance system, selection engine, rigorous preparatory phases, immersive bootcamp ("Piscine"), and core training are entirely free. Supported by strategic investments, corporate talent partners and a corporate AI delivery arm (*Talent Nation*), the model is structurally sustainable, even providing fellows with learning stipends. Costs are only structurally recovered via an income-share ethos after a fellow is actively placed in a paid engineering role.
 
-* **Gamified Selection over Resumes:** No CVs, coding interviews, or prior tech credentials are used for evaluation. Learn2Earn uses an interactive web-based logic platform to measure raw cognitive potential, spatial tracking, pattern matching, and endurance.
-Traditional tech applications reward polished resumes over raw capability. Learn2Earn uses an accessible, algorithmic logic game to evaluate cognitive potential, spatial logic, and grit—ensuring absolute meritocracy.
+* **Gamified Selection over Resumes:** No CVs, coding interviews, or prior tech credentials are used for evaluation. Learn2Earn uses an accessible, algorithmic and interactive web-based logic game to evaluate raw cognitive potential, spatial tracking, spatial logic, pattern matching, and endurance and grit, ensuring absolute meritocracy.
 
 * **Anti-Cheat Verification Architecture:** Registration requires a National Identification Number (NIN) match and email verification to ensure absolute meritocracy and prevent duplicate application attempts on the selection games.
 
@@ -124,47 +123,33 @@ The full trajectory spans a structured **4-year pipeline** split cleanly between
 
 
 Phase 1: Logic Test
-
-(90-Min Gamified App)                 
-
+(90-Min Gamified App)
 Play our free online game. It tests memory, and problem-solving; not prior knowledge. Do well, and you're invited to the Trials.
-
 Remote. Can be done anywhere
 
 
 
 Phase 2: The Piscine
-
 (4-Week Onsite Audition)
-
 A high-intensity, in-person bootcamp. You'll learn to code, collaborate, and be pushed harder than you've been pushed before. Only the most determined move on.
-
 On-campus. Full-time commitment required.
 
 
 Phase 3: Core Training (Fellowship)
-
 (2 years)
 
 *The Training Program (1 Year)*
-
 Build full-stack applications with AI at the core, create a strong, real-world portfolio, and graduate ready to step into a job.
-
 On-campus. Full-time.
 
 *AI Specialization & Internships (1 Year)*
-
 Apply your skills in a real work environment. You'll go deep on AI while gaining hands-on industry experience — the bridge between training and your global career.
-
 On-campus. Full-time.
 
 
 Phase 4: Graduate and Get to Work
-
 (2-Yr Paid Work Contracts)
-
 Step into 2 years of access to paid work through TN Macaulay, our global talent agency.
-
 You've made it.
 
 <br><br>
