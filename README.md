@@ -167,7 +167,7 @@ Step into 2 years of access to paid work through TN Macaulay, our global talent 
 
 You've made it.
 
-\
+<br><br>
 
 
 ### Phase 1: The Online Logic Challenge
@@ -220,12 +220,7 @@ If you are evaluating this program as an outsider or prospective applicant, keep
 >
 > 🔒 **Contractual Commitment:** The inclusion of a guaranteed 2-year job contract is highly secure, but it also binds your professional career trajectory to their deployment pipelines for that duration. Read all agreements thoroughly.
 
-
-\
-
-\
-
-\
+<br><br>
 
 ---
 
@@ -235,25 +230,25 @@ If you are evaluating this program as an outsider or prospective applicant, keep
 
 A: No. The entrance games require no writing of code or understanding of syntax. They are designed to test your memory, capacity for pattern recognition, and processing efficiency.
 
-\
+<br>
 
 **Q: How can the fellowship be completely free while paying stipends?**
 
 A: The program operates on a highly scalable, sustainable talent agency model. By running a lean operational team on campus and integrating directly with global enterprises through *Talent Nation*, the costs are fully recovered through post-graduation engineering partnerships.
 
-\
+<br>
 
 **Q: What happens if someone fails the Piscine selection camp?**
 
 A: The Piscine is a high-volume trial; candidates who do not secure a spot in the core fellowship still leave with an intense 4 weeks of foundational programming exposure and a baseline understanding of digital engineering pipelines.
 
-\
+<br>
 
 **Q: Do I need to know AI before joining?**
 
 A: No. We build AI engineers from scratch. If you have the logic and the grit, we provide the AI-native environment to help you master the craft.
 
-\
+<br>
 
 **Q: Why the focus on AI?**
 
@@ -261,7 +256,7 @@ A: AI is the most significant technological shift since the internet. To be comp
 
 We would get you ready for that future starting today.
 
-\
+<br>
 
 **Q: How do I join Learn2Earn?**
 
@@ -271,7 +266,7 @@ If you pass, you'll be invited to join the Trials — a 30-day, in-person coding
 
 Only top performers from the Trials are admitted into the full Learn2Earn program. Think you've got what it takes? [Play the game](https://auth.learn2earn.ng/register).
 
-\
+<br>
 
 **Q: Is there an enrolment or application fee?**
 
@@ -281,7 +276,7 @@ Instead of paying tuition upfront, you repay the cost of your free education by 
 
 It's your chance to gain real-world experience, earn a salary, and give back.
 
-\
+<br>
 
 **Q: How does the selection process work?**
 
@@ -295,7 +290,7 @@ Only the top performers from the Trials are selected to join the full Learn2Earn
 
 Ready to take the first step?  [Play the game](https://auth.learn2earn.ng/register).
 
-\
+<br>
 
 **Q: How long does it take to complete the game?**
 
@@ -303,7 +298,7 @@ A: The game takes about 90 minutes to complete. Most players finish within a few
 
 Top performers often complete it in 1-2 hours, but you're free to take breaks and play at your own pace.
 
-\
+<br>
 
 **Q: What does Learn2Earn provide during training?**
 
@@ -314,7 +309,7 @@ A: During the training phase, Learn2Earn provides:
 
 * A desktop or laptop computer for programme use
 
-\
+<br>
 
 **Q: Do you own the computer they receive?**
 
@@ -324,7 +319,7 @@ You are expected to care for the device and ensure it's in good condition at the
 
 In some cases, you may be offered the option to retain the device by paying it down in installments over up to 24 months.
 
-\
+<br>
 
 **Q: Is the programme full-time?**
 
