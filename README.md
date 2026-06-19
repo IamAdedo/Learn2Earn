@@ -10,6 +10,7 @@ Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem, 
 
 > **⚠️ Disclaimer:** This repository is an independent, community-driven initiative. It is not officially affiliated with, endorsed by, or maintained by Learn2Earn.ng, its core management team, or 01Edu. All information is compiled from publicly available data, program announcements, and participant experiences.
 
+---
 
 ## 📌 Executive Overview
 
@@ -21,12 +22,14 @@ By treating software engineering as an interactive, high-level trade requiring c
 ### The Innovation Behind Learn2Earn
 Learn2Earn was established to bypass these bottlenecks completely. Instead of attempting to fix legacy academic pipelines, it introduces a **pure meritocracy engine**. It treats software engineering not as an academic qualification, but as an high-level trade requiring grit, logical alignment, and intense pattern recognition.
 
+---
 
 ## 👁️ Vision & Mission
 
 * **🌌 The Vision:** To establish and transform Africa, starting with Nigeria, as the ultimate epicenter and foundational engine room for global AI and software engineering talent, creating an elite ecosystem of a million AI-native software engineers to foster a borderless economy and changing the continent's socioeconomic narrative through high-end digital labor export.
 * **🎯 The Mission:** To discover, nurture them to global excellence using decentralized peer-to-peer frameworks, and deploy hidden, highly analytical tech professionals across Nigeria by providing zero-tuition, high-intensity training paired with immediate, guaranteed pathways to international and domestic employment.
 
+---
 
 ## 💔 The Structural Problems It Solves
 
@@ -40,6 +43,7 @@ Traditional educational and vocational pipelines are failing to keep pace with g
 
 * **Outdated Curricula:** Local tertiary institutions heavily emphasize theoretical or legacy systems, leaving students unprepared for modern distributed systems, AI integration, machine learning, and modern full-stack development patterns.
 
+---
 
 ## ⚡ Why Learn2Earn? (Core Pillars)
 
@@ -123,21 +127,47 @@ Phase 1: Logic Test
 
 (90-Min Gamified App)                 
 
+Play our free online game. It tests memory, and problem-solving; not prior knowledge. Do well, and you're invited to the Trials.
+
+Remote. Can be done anywhere
+
+
 
 Phase 2: The Piscine
 
 (4-Week Onsite Audition)
 
+A high-intensity, in-person bootcamp. You'll learn to code, collaborate, and be pushed harder than you've been pushed before. Only the most determined move on.
 
-Phase 3: Core Training
-
-(18-Mo Foundation + 6-Mo Branch)
+On-campus. Full-time commitment required.
 
 
-Phase 4: Enterprise Loop
+Phase 3: Core Training (Fellowship)
+
+(2 years)
+
+*The Training Program (1 Year)*
+
+Build full-stack applications with AI at the core, create a strong, real-world portfolio, and graduate ready to step into a job.
+
+On-campus. Full-time.
+
+*AI Specialization & Internships (1 Year)*
+
+Apply your skills in a real work environment. You'll go deep on AI while gaining hands-on industry experience — the bridge between training and your global career.
+
+On-campus. Full-time.
+
+
+Phase 4: Graduate and Get to Work
 
 (2-Yr Paid Work Contracts)
 
+Step into 2 years of access to paid work through TN Macaulay, our global talent agency.
+
+You've made it.
+
+\
 
 
 ### Phase 1: The Online Logic Challenge
@@ -191,7 +221,11 @@ If you are evaluating this program as an outsider or prospective applicant, keep
 > 🔒 **Contractual Commitment:** The inclusion of a guaranteed 2-year job contract is highly secure, but it also binds your professional career trajectory to their deployment pipelines for that duration. Read all agreements thoroughly.
 
 
+\
 
+\
+
+\
 
 ---
 
@@ -303,7 +337,7 @@ Learn2Earn is an intensive, full-time programme. You are expected to:
 
 This level of commitment is essential to achieving the outcomes we promise.
 
-\
+<br>
 
 **Q: What happens if you decide to leave during training?**
 
@@ -311,7 +345,7 @@ A: You are free to leave at any time during training if you decide the programme
 
 If you leave before certification, you are not required to pay anything. Your place will be offered to another learner who wants the opportunity.
 
-\
+<br>
 
 **Q: What happens after I complete training and get certified?**
 
@@ -322,19 +356,14 @@ A: Once you are trained and certified:
 
 This happens primarily through paid work.
 
-\
 
-\
-
-\
-
-\
+<br><br>
 
 
 Still have questions?
 [Contact Learn2Earn](https://learn2earn.ng/contact)
 
-\
+<br><br>
 
 ---
 
