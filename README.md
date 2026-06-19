@@ -122,35 +122,35 @@ Learn2Earn is architected for **unemployed or underemployed school leavers, grad
 The full trajectory spans a structured **4-year pipeline** split cleanly between skill transformation and enterprise integration:
 
 
-Phase 1: Logic Test
-(90-Min Gamified App)
-Play our free online game. It tests memory, and problem-solving; not prior knowledge. Do well, and you're invited to the Trials.
-Remote. Can be done anywhere
+Phase 1: Logic Test <br>
+(90-Min Gamified App) <br>
+[Play the free online game](https://auth.learn2earn.ng/register). It tests memory, and problem-solving; not prior knowledge. Do well, and you're invited to the Trials. <br>
+Remote. Can be done anywhere. <br>
 
 
 
-Phase 2: The Piscine
-(4-Week Onsite Audition)
-A high-intensity, in-person bootcamp. You'll learn to code, collaborate, and be pushed harder than you've been pushed before. Only the most determined move on.
-On-campus. Full-time commitment required.
+Phase 2: The Piscine <br>
+(4-Week Onsite Audition) <br>
+A high-intensity, in-person bootcamp. You'll learn to code, collaborate, and be pushed harder than you've been pushed before. Only the most determined move on. <br>
+On-campus. Full-time commitment required. <br>
 
 
-Phase 3: Core Training (Fellowship)
-(2 years)
+Phase 3: Core Training (Fellowship) <br>
+(2 years) <br>
 
-*The Training Program (1 Year)*
-Build full-stack applications with AI at the core, create a strong, real-world portfolio, and graduate ready to step into a job.
-On-campus. Full-time.
+*The Training Program (1 Year)* <br>
+Build full-stack applications with AI at the core, create a strong, real-world portfolio, and graduate ready to step into a job. <br>
+On-campus. Full-time. <br>
 
-*AI Specialization & Internships (1 Year)*
-Apply your skills in a real work environment. You'll go deep on AI while gaining hands-on industry experience — the bridge between training and your global career.
-On-campus. Full-time.
+*AI Specialization & Internships (1 Year)* <br>
+Apply your skills in a real work environment. You'll go deep on AI while gaining hands-on industry experience — the bridge between training and your global career. <br>
+On-campus. Full-time. <br>
 
 
-Phase 4: Graduate and Get to Work
-(2-Yr Paid Work Contracts)
-Step into 2 years of access to paid work through TN Macaulay, our global talent agency.
-You've made it.
+Phase 4: Graduate and Get to Work <br>
+(2-Yr Paid Work Contracts) <br>
+Step into 2 years of access to paid work through TN Macaulay, our global talent agency. <br>
+You've made it. <br>
 
 <br><br>
 
