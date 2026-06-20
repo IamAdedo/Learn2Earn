@@ -9,6 +9,8 @@ Learn2Earn has a nationwide network of campuses, and still growing.
 *hq-yaba-lagos*
 
 Address: Pier Place, 14 Montgomery Road, Yaba, Lagos State.
+
+<br>
 ---
 
 *ibeju-lekki-lagos*
