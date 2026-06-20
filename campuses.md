@@ -4,33 +4,49 @@ Learn2Earn has a nationwide network of campuses, and still growing.
 
 <br><br>
 
-* Lagos
+* **Lagos**
 
-hq-yaba-lagos
+*hq-yaba-lagos*
 
-ibeju-lekki-lagos
+Address: Pier Place, 14 Montgomery Road, Yaba, Lagos State.
 
-<br><br>
 
-* Kwara
+*ibeju-lekki-lagos*
 
-iih-ilorin
-
-rhi-kwasu-kwara
+Address: SAIL Innovation Lab / STEM Lab, 1 Muba Abiru Street, Ebute-Ipakodo, Ikorodu, Lagos (serves the broader Lagos East zone including Ikorodu, Ibeju-Lekki, Epe, and Kosofe).
 
 <br><br>
 
-* Anambra
+* **Kwara**
 
-rhi-fpo-anambra
+*iih-ilorin*
+
+Address: Ilorin Innovation Hub, 9A Ahmadu Bello Way, GRA, Ilorin, Kwara State.
+
+
+*rhi-kwasu-kwara*
+
+Address: Kwara State University (KWASU), Malete, Ilorin, Kwara State.
 
 <br><br>
 
-* Ekiti
+* **Anambra**
 
-rhi-eksu-ekiti
+*rhi-fpo-anambra*
 
-kinplus-ado-ekiti
+Address: Federal Polytechnic Oko, Oko, Anambra State.
+
+<br><br>
+
+* **Ekiti**
+
+*rhi-eksu-ekiti*
+
+Address: Ekiti State University (EKSU), Iworoko Road, Ado-Ekiti, Ekiti State.
+
+*kinplus-ado-ekiti*
+
+Address: Kinplus Technologies Campus, 1st & 2nd Floor, Christore Building, Opposite Crunchies (Near State Hospital), Similoluwa, Ado-Ekiti, Ekiti State.
 
 <br><br>
 
@@ -114,43 +130,6 @@ Learn2Earn has a nationwide network of campuses, and still growing. [1]
 
 
 
-* [Lagos](https://www.google.com/search?kgmid=/m/0lnfy)
-
-hq-yaba-lagos
-
-* Full Address: Pier Place, 14 Montgomery Road, Yaba, Lagos State.
-* Other Details: Serves as the central Learn2Earn Model Campus and primary Yaba Hub facility. It is equipped for focus and collaborative peer-to-peer learning. [2, 3, 4] 
-
-ibeju-lekki-lagos
-
-* Full Address: [SAIL Innovation Lab / STEM Lab](https://www.google.com/search?kgmid=/g/11ssvdyvv0), 1 Muba Abiru Street, Ebute-Ipakodo, Ikorodu, Lagos (serves the broader Lagos East zone including Ikorodu, Ibeju-Lekki, Epe, and Kosofe).
-* Other Details: Operational partnership with the SAIL Innovation Lab providing advanced infrastructure for tech training. [5, 6, 7] 
-
-
-
-
-* Kwara
-
-[iih-ilorin](https://www.google.com/search?kgmid=/g/11jl9m4xym)
-
-* Full Address: [Ilorin Innovation Hub](https://www.google.com/search?kgmid=/g/11jl9m4xym), 9A Ahmadu Bello Way, GRA, Ilorin, Kwara State.
-* Other Details: A Kwara State Government initiative in partnership with IHS Towers. It runs on 100% solar power and provides top-tier facilities for AI and full-stack software development. [3, 7, 8, 9, 10] 
-
-rhi-kwasu-kwara
-
-* Full Address: [Kwara State University (KWASU)](https://www.google.com/search?kgmid=/m/07s4gjy), Malete, Ilorin, Kwara State.
-* Other Details: Deployed under the Regional Hub Initiative (RHI) to bring institutional tech-learning bootcamps directly to university students. [11, 12] 
-
-
-
-
-* Anambra
-
-rhi-fpo-anambra
-
-* Full Address: [Federal Polytechnic Oko, Oko, Anambra State](https://www.google.com/search?kgmid=/m/011qdqf1).
-* Other Details: Part of the institutional Regional Hub network, focused on zero-tuition AI-native developer programs. [11, 13] 
-
 
 
 
@@ -158,12 +137,12 @@ rhi-fpo-anambra
 
 rhi-eksu-ekiti
 
-* Full Address: Ekiti State University (EKSU), Iworoko Road, Ado-Ekiti, Ekiti State.
+* Full Address: 
 * Other Details: Regional Hub campus supporting students and residents within the university axis. [11, 14] 
 
 kinplus-ado-ekiti
 
-* Full Address: [Kinplus Technologies Campus](https://www.google.com/search?kgmid=/g/11rw9bmrfx), 1st & 2nd Floor, Christore Building, Opposite Crunchies (Near State Hospital), Similoluwa, Ado-Ekiti, Ekiti State.
+* Full 
 * Other Details: An execution partnership with Kinplus Technologies to offer specialized co-working environments and intensive training. [15, 16] 
 
 
