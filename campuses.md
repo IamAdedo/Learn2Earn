@@ -5,135 +5,113 @@ Learn2Earn has a nationwide network of campuses, and still growing.
 <br><br>
 
 * **Lagos**
----
----
 
-*hq-yaba-lagos*
-
+*hq-yaba-lagos* \
 **Address**: Pier Place, 14 Montgomery Road, Yaba, Lagos State.
 
-<br>
-
----
-
-*ibeju-lekki-lagos*
-
+*ibeju-lekki-lagos* \
 **Address**: SAIL Innovation Lab / STEM Lab, 1 Muba Abiru Street, Ebute-Ipakodo, Ikorodu, Lagos (serves the broader Lagos East zone including Ikorodu, Ibeju-Lekki, Epe, and Kosofe).
-
-<br>
-
 
 ---
 
 * **Kwara**
 
----
----
-
-*iih-ilorin*
-
+*iih-ilorin* \
 **Address**: Ilorin Innovation Hub, 9A Ahmadu Bello Way, GRA, Ilorin, Kwara State.
 
-
-*rhi-kwasu-kwara*
-
+*rhi-kwasu-kwara* \
 **Address**: Kwara State University (KWASU), Malete, Ilorin, Kwara State.
----
+
 ---
 
 * **Anambra**
----
-*rhi-fpo-anambra*
 
+*rhi-fpo-anambra* \
 **Address**: Federal Polytechnic Oko, Oko, Anambra State.
----
+
 ---
 
 * **Ekiti**
----
-*rhi-eksu-ekiti*
 
+*rhi-eksu-ekiti* \
 **Address**: Ekiti State University (EKSU), Iworoko Road, Ado-Ekiti, Ekiti State.
----
-*kinplus-ado-ekiti*
 
+*kinplus-ado-ekiti* \
 **Address**: Kinplus Technologies Campus, 1st & 2nd Floor, Christore Building, Opposite Crunchies (Near State Hospital), Similoluwa, Ado-Ekiti, Ekiti State.
----
+
 ---
 
 * **Kaduna**
----
-*rhi-kasu-kaduna*
 
-**Address**: [Kaduna State University (KASU)](https://www.google.com/search?kgmid=/g/11fz9y0b1d), Tafawa Balewa Way, Kaduna, Kaduna State.
----
-*paragon-twl-kaduna*
+*rhi-kasu-kaduna* \
+**Address**: Kaduna State University (KASU), Tafawa Balewa Way, Kaduna, Kaduna State.
 
+*paragon-twl-kaduna* \
 **Address**: Paragon-TWL Hub Axis, Kaduna Central, Kaduna State.
----
+
 ---
 
 * **Taraba**
 
-*rhi-tsu-taraba*
-
+*rhi-tsu-taraba* \
 **Address**: Taraba State University, Along Bali-Jalingo Road, Jalingo, Taraba State.
----
+
 ---
 
 * **Cross River**
 
-*rhi-csu-calabar*
-
+*rhi-csu-calabar* \
 **Address**: Cross River State University of Technology (UNICROSS), Calabar Campus, Calabar, Cross River State.
----
 
-*calabar-campus*
-
+*calabar-campus* \
 **Address**: Calabar Hub Facility, Calabar, Cross River State.
+
 ---
+
+* **Plateau**
+
+*ida-jos-plateau* \
+Address: Jos Tech Axis, Jos, Plateau State.
+
+*nhub-jos-plateau* \
+ Address: nHub Jos, TAEN Business Complex, Jos, Plateau State.
+
 ---
 
+* **Rivers**
 
+*ctec-portharcourt* \
+Address: CTEC Port Harcourt, 18 Tombia Street, Ogbunabali, Port Harcourt, Rivers State.
 
-* Plateau
+*prime-skills-portharcourt* \
+Address: Prime Skills Academy, 5 Rehoboth Close, Off Igbo Etche Road, Eleme Junction, Obio-Akpor LGA, Port Harcourt, Rivers State.
 
-ida-jos-plateau
+---
 
-nhub-jos-plateau
+* **Abuja**
 
-<br><br>
-
-* Rivers
-
-ctec-portharcourt
-
-prime-skills-portharcourt
-
-<br><br>
-
-* Abuja
-
-dbi-abuja
+*dbi-abuja* \
+Address: Digital Bridge Institute, 8 P.O.W. Mafemi Crescent, Utako District, Utako, Abuja.
 
 ---
 
 * **Benue**
 
-*leef-centre-otukpo*
+*leef-centre-otukpo* \
 Address: LEEF Centre, Old Makurdi Road, Off Burnt Bricks (Near St. Helen's Hospital), Otukpo, Benue State.
 
 ---
 
 * **Oyo**
-*american-university-ibadan*
+
+*american-university-ibadan* \
 Address: Ibadan Hub Center, Ibadan, Oyo State.
 
 ---
 
 * **Imo**
 
-*imo-campus*
+*imo-campus* \
 Address: Owerri Tech Axis, Owerri, Imo State.
 
 ---
