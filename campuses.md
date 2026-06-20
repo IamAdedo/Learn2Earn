@@ -140,14 +140,14 @@ Address: Owerri Tech Axis, Owerri, Imo State.
 
 * **Osun**
 
-*oshogbo-osun-state*
+*oshogbo-osun-state* \
 **Address**: Osogbo Hub Axis, Osogbo, Osun State.
 
 ---
 
 * **Katsina**
 
-*katsina-campus*
+*katsina-campus* \
 **Address**: Katsina State Directorate of Information and Communication Technology (KATDICT) Complex, Katsina, Katsina State.
 
 ---
