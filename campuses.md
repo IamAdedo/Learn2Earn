@@ -73,48 +73,48 @@ Learn2Earn has a nationwide network of campuses, and still growing.
 * **Plateau**
 
 *ida-jos-plateau* \
-Address: Jos Tech Axis, Jos, Plateau State.
+**Address**: Jos Tech Axis, Jos, Plateau State.
 
 *nhub-jos-plateau* \
- Address: nHub Jos, TAEN Business Complex, Jos, Plateau State.
+ **Address**: nHub Jos, TAEN Business Complex, Jos, Plateau State.
 
 ---
 
 * **Rivers**
 
 *ctec-portharcourt* \
-Address: CTEC Port Harcourt, 18 Tombia Street, Ogbunabali, Port Harcourt, Rivers State.
+**Address**: CTEC Port Harcourt, 18 Tombia Street, Ogbunabali, Port Harcourt, Rivers State.
 
 *prime-skills-portharcourt* \
-Address: Prime Skills Academy, 5 Rehoboth Close, Off Igbo Etche Road, Eleme Junction, Obio-Akpor LGA, Port Harcourt, Rivers State.
+**Address**: Prime Skills Academy, 5 Rehoboth Close, Off Igbo Etche Road, Eleme Junction, Obio-Akpor LGA, Port Harcourt, Rivers State.
 
 ---
 
 * **Abuja**
 
 *dbi-abuja* \
-Address: Digital Bridge Institute, 8 P.O.W. Mafemi Crescent, Utako District, Utako, Abuja.
+**Address**: Digital Bridge Institute, 8 P.O.W. Mafemi Crescent, Utako District, Utako, Abuja.
 
 ---
 
 * **Benue**
 
 *leef-centre-otukpo* \
-Address: LEEF Centre, Old Makurdi Road, Off Burnt Bricks (Near St. Helen's Hospital), Otukpo, Benue State.
+**Address**: LEEF Centre, Old Makurdi Road, Off Burnt Bricks (Near St. Helen's Hospital), Otukpo, Benue State.
 
 ---
 
 * **Oyo**
 
 *american-university-ibadan* \
-Address: Ibadan Hub Center, Ibadan, Oyo State.
+**Address**: Ibadan Hub Center, Ibadan, Oyo State.
 
 ---
 
 * **Imo**
 
 *imo-campus* \
-Address: Owerri Tech Axis, Owerri, Imo State.
+**Address**: Owerri Tech Axis, Owerri, Imo State.
 
 ---
 
