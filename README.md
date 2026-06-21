@@ -206,47 +206,47 @@ If you are evaluating this program as an outsider or prospective applicant, keep
 ## 💬 Frequently Asked Questions (FAQs)
 
 **Q: Do I need a computer science degree or programming background to pass the game?** \
-**A** No. The entrance games require no writing of code or understanding of syntax. They are designed to test your memory, capacity for pattern recognition, and processing efficiency.
+**A **::   No. The entrance games require no writing of code or understanding of syntax. They are designed to test your memory, capacity for pattern recognition, and processing efficiency.
 
 <br>
 
 **Q: How can the fellowship be completely free while paying stipends?** \
-**A** The program operates on a highly scalable, sustainable talent agency model. By running a lean operational team on campus and integrating directly with global enterprises through *Talent Nation*, the costs are fully recovered through post-graduation engineering partnerships.
+**A **::   The program operates on a highly scalable, sustainable talent agency model. By running a lean operational team on campus and integrating directly with global enterprises through *Talent Nation*, the costs are fully recovered through post-graduation engineering partnerships.
 
 <br>
 
 **Q: What happens if someone fails the Piscine selection camp?** \
-**A** The Piscine is a high-volume trial; candidates who do not secure a spot in the core fellowship still leave with an intense 4 weeks of foundational programming exposure and a baseline understanding of digital engineering pipelines.
+**A **::   The Piscine is a high-volume trial; candidates who do not secure a spot in the core fellowship still leave with an intense 4 weeks of foundational programming exposure and a baseline understanding of digital engineering pipelines.
 
 <br>
 
 **Q: Do I need to know AI before joining?** \
-**A** No. We build AI engineers from scratch. If you have the logic and the grit, we provide the AI-native environment to help you master the craft.
+**A **::   No. We build AI engineers from scratch. If you have the logic and the grit, we provide the AI-native environment to help you master the craft.
 
 <br>
 
 **Q: Why the focus on AI?** \
-**A** AI is the most significant technological shift since the internet. To be competitive in the global job market, you must be more than a coder; you must be an AI-native engineer. \
+**A **::   AI is the most significant technological shift since the internet. To be competitive in the global job market, you must be more than a coder; you must be an AI-native engineer. \
 We would get you ready for that future starting today.
 
 <br>
 
 **Q: How do I join Learn2Earn?** \
-**A** Start by playing our free, fun online selection game — it tests your logic, memory, and problem-solving skills. \
+**A **::   Start by playing our free, fun online selection game — it tests your logic, memory, and problem-solving skills. \
 If you pass, you'll be invited to join the Trials — a 30-day, in-person coding bootcamp that challenges your grit, collaboration, and learning ability. \
 Only top performers from the Trials are admitted into the full Learn2Earn program. Think you've got what it takes? [Play the game](https://auth.learn2earn.ng/register). 
 
 <br>
 
 **Q: Is there an enrolment or application fee?** \
-**A** No — there are no fees at all. The selection game, the training programme, and the job placement are completely free to you. \
+**A **::   No — there are no fees at all. The selection game, the training programme, and the job placement are completely free to you. \
 Instead of paying tuition upfront, you repay the cost of your free education by joining our global talent agency after graduation, where you'll work on exciting international tech projects for a minimum period of 2 years. \
 It's your chance to gain real-world experience, earn a salary, and give back.
 
 <br>
 
 **Q: How does the selection process work?** \
-**A** It starts with our online selection game — a free, fun challenge designed to test your logic, memory, and problem-solving skills. \
+**A **::   It starts with our online selection game — a free, fun challenge designed to test your logic, memory, and problem-solving skills. \
 If you perform well, you'll be invited to the Trials — a 30-day, in-person coding bootcamp held at one of our campuses. \
 The Trials are intense, collaborative, and immersive. You don't need any tech background — just grit, curiosity, and the ability to learn fast. You'll work on real coding challenges in a peer-to-peer environment that mimics real-world problem solving. \
 Only the top performers from the Trials are selected to join the full Learn2Earn program. Think of it as your audition for a life-changing opportunity. \
@@ -255,13 +255,13 @@ Ready to take the first step?  [Play the game](https://auth.learn2earn.ng/regi
 <br>
 
 **Q: How long does it take to complete the game?** \
-**A** The game takes about 90 minutes to complete. Most players finish within a few hours to a couple of days, depending on how much time they spend on it. \
+**A **::   The game takes about 90 minutes to complete. Most players finish within a few hours to a couple of days, depending on how much time they spend on it. \
 Top performers often complete it in 1-2 hours, but you're free to take breaks and play at your own pace.
 
 <br>
 
 **Q: What does Learn2Earn provide during training?** \
-**A** During the training phase, Learn2Earn provides:
+**A **::   During the training phase, Learn2Earn provides:
 * Full-time technical training on a world-class learning platform
 * Access to learning infrastructure and campus facilities
 * A desktop or laptop computer for programme use
@@ -269,30 +269,31 @@ Top performers often complete it in 1-2 hours, but you're free to take breaks an
 <br>
 
 **Q: Do you own the computer they receive?** \
-**A** No, not by default. \
+**A **::   No, not by default. \
 You are expected to care for the device and ensure it's in good condition at the end of the programme. \
 In some cases, you may be offered the option to retain the device by paying it down in installments over up to 24 months.
 
 <br>
 
 **Q: Is the programme full-time?** \
-**A** Yes. \
+**A **::   Yes. \
 Learn2Earn is an intensive, full-time programme. You are expected to:
 * Show up every day
 * Be punctual, focused, and engaged
-* Treat the programme like a professional commitment \
+* Treat the programme like a professional commitment
+
 This level of commitment is essential to achieving the outcomes we promise.
 
 <br>
 
 **Q: What happens if you decide to leave during training?** \
-**A** You are free to leave at any time during training if you decide the programme is not right for you. \
+**A **::   You are free to leave at any time during training if you decide the programme is not right for you. \
 If you leave before certification, you are not required to pay anything. Your place will be offered to another learner who wants the opportunity.
 
 <br>
 
 **Q: What happens after I complete training and get certified?** \
-**A** Once you are trained and certified: 
+**A **::   Once you are trained and certified: 
 * Real, employable value has been created.
 * At this point, you are expected to pay the opportunity forward so the next learner can be trained. 
 
