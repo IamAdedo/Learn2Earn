@@ -1,8 +1,8 @@
 package piscine
 
 func CheckNumber(arg string) bool {
-	for _, r := range arg {
-		if r >= '0' && r <= '9' {
+	for _, num := range arg {
+		if num >= '0' && num <= '9' {
 			return true
 		}
 	}
