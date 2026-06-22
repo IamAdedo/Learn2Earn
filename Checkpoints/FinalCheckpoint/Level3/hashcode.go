@@ -6,6 +6,7 @@ func HashCode(dec string) string {
 	}
 
 	size := len(dec)
+
 	var result string
 
 	for _, hCode := range dec {
@@ -15,6 +16,5 @@ func HashCode(dec string) string {
 		}
 		result += string(rune(hashed))
 	}
-
 	return result
 }
