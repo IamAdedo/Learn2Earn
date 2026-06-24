@@ -306,6 +306,9 @@ This happens primarily through paid work.
 Still have questions?
 [Contact Learn2Earn](https://learn2earn.ng/contact)
 
+---
+
+![Visitors+Counts](visitors-badge.laobi.icu/badge?page_id=IamAdedo.Learn2Earn&color=blue&label=Visitors+Counts)
 
 ---
 
