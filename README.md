@@ -308,7 +308,7 @@ Still have questions?
 
 ---
 
-![Visitors+Counts](visitors-badge.laobi.icu/badge?page_id=IamAdedo.Learn2Earn&color=blue&label=Visitors+Counts)
+![Visitors Counts](visitors-badge.laobi.icu/badge?page_id=IamAdedo.Learn2Earn&color=blue&label=Visitors+Counts)
 
 ---
 
