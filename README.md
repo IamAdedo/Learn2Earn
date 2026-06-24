@@ -308,9 +308,8 @@ Still have questions?
 
 ---
 
-![Visitors Counts](visitors-badge.laobi.icu/badge?page_id=IamAdedo.Learn2Earn&color=blue&label=Visitors+Counts)
+*This Information Hub is curated openly by the developer community. If you notice inaccuracies, updated timelines, or structural changes regarding Learn2Earn.ng, please open an Issue or submit a Pull Request to keep this repository updated.*
 
 ---
 
-
-*This Information Hub is curated openly by the developer community. If you notice inaccuracies, updated timelines, or structural changes regarding Learn2Earn.ng, please open an Issue or submit a Pull Request to keep this repository updated.*
+![Visitor Counts](visitors-badge.laobi.icu/badge?page_id=IamAdedo.Learn2Earn&color=blue&label=Visitors+Count)
