@@ -2,10 +2,12 @@ package piscine
 
 func cameltosnake(s string) string {
 	if s == "" {
-		return s
+		return ""
 	}
 
-	for _, case := range s {
+	var result []rune 
+
+	for i, case := range s {
 		if (case < 'A' || case > 'Z') && (case < 'a' || case > 'z') {
 			return s
 		}
@@ -14,11 +16,11 @@ func cameltosnake(s string) string {
 			if i == len(s)-1 || (i+1 < len(s) && s[i+1] >= 'A' && s[i+1] <= 'Z') {
 				return s
 			}
-		}
-		if i > 0 {
-			result = append(result, '_')
+			if i > 0 {
+				result = append(result, '_')
+			}
 		}
 		result += append(result, case)
 	}
-	return result
+	return string(result)
 }
