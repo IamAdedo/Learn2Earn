@@ -1,7 +1,9 @@
 # Learn2Earn Nigeria
 
 [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Onsite-blueviolet?style=for-the-badge)](https://learn2earn.ng)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+<!-- [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE) -->
+[![Country](https://img.shields.io/badge/Country-Nigeria-green?style=for-the-badge)](https://learn2earn.ng)
+[![Campus](https://img.shields.io/badge/Campus%20Count-22-white?style=for-the-badge)](https://github.com/IamAdedo/Learn2Earn/blob/main/campuses.md)
 [![Focus](https://img.shields.io/badge/Focus-AI%20%26%20FullStack%20Engineering-orange?style=for-the-badge)](https://learn2earn.ng)
 
 
@@ -16,11 +18,8 @@ Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem, 
 
 Learn2Earn.ng is a zero-tuition tech talent accelerator operating physical [campuses across Nigeria](https://github.com/IamAdedo/Learn2Earn/blob/main/campuses.md). The program leverages the **01Edu platform and pedagogy**—honed over 25 years by pioneers like Nicolas Sadirac, to completely eliminate traditional lecture structures, teachers, and classrooms.
 
-By treating software engineering as an interactive, high-level trade requiring computational grit rather than formal university credentials, the platform isolates raw problem-solving capability. Using a methodology called **Creative Confrontation**, it trains highly autonomous, AI-native developers capable of navigating changing tech landscapes at scale.
-
-
 ### The Innovation Behind Learn2Earn
-Learn2Earn was established to bypass these bottlenecks completely. Instead of attempting to fix legacy academic pipelines, it introduces a **pure meritocracy engine**. It treats software engineering not as an academic qualification, but as an high-level trade requiring grit, logical alignment, and intense pattern recognition.
+Learn2Earn was established to bypass these bottlenecks created by formal university credentials completely. Instead of attempting to fix legacy academic pipelines, it introduces a **pure meritocracy engine**. It treats software engineering not as an academic qualification, but as an interactive, high-level trade requiring computational grit, logical alignment, and intense pattern recognition, rather than formal university credentials, the platform isolates raw problem-solving capability. Using a methodology called **Creative Confrontation**, it trains highly autonomous, AI-native developers capable of navigating changing tech landscapes at scale.
 
 ---
 
@@ -53,14 +52,13 @@ The platform is engineered around globally proven pedagogical architectures buil
 
 * **Gamified Selection over Resumes:** No CVs, coding interviews, or prior tech credentials are used for evaluation. Learn2Earn uses an accessible, algorithmic and interactive web-based logic game to evaluate raw cognitive potential, spatial tracking, spatial logic, pattern matching, and endurance and grit, ensuring absolute meritocracy.
 
-* **Anti-Cheat Verification Architecture:** Registration requires a National Identification Number (NIN) match and email verification to ensure absolute meritocracy and prevent duplicate application attempts on the selection games.
+* **Anti-Cheat Verification Architecture:** Registration requires a National Identification Number (NIN) match and email verification to ensure absolute meritocracy and prevent duplicate application attempts on the selection games, and after then a physical verification known as `Check-in`, where you have to be available physically for document cross-examination and verification.  
 
 * **Human Accompaniment:** While the core technical system is teacherless, campuses deploy dedicated **Coding Mentors** who provide operational oversight, enforce strict Git/CI-CD documentation standards, and offer structural and psychological accompaniment to guide fellows through code confusion.
 
 * **Peer-to-Peer Learning Dynamics:** Eliminating stiff, lecture-heavy formats. Fellows work within highly collaborative, project-driven spaces where knowledge retention is reinforced by debugging, reviewing, and merging code with peers.
 
-* **Guaranteed Career Launchpad:** We sign a two-year employment contract with fellows *prior* to graduation, eliminating job search anxieties so talents can focus entirely on technical excellence.
-
+* **Guaranteed Career Launchpad:** They sign a two-year employment contract with fellows *prior* to graduation, eliminating job search anxieties so talents can focus entirely on technical excellence.
 
 
 ---
@@ -85,19 +83,15 @@ Learn2Earn is architected for **unemployed or underemployed school leavers, grad
 
 ### 🟩 Highly Ideal For:
 
-* Analytical or computational profiles (math, physics, economics, chess players) who possess massive raw logic speed but have never had access to formal tech education.
+* Analytical or computational profiles (math, physics, economics, chess players) who possess massive raw logic speed and processing capability but have never written code or had access to formal tech education.
 
 * Self-taught developers who have hit a learning ceiling and lack real-world collaborative experience.
 
 * Self-taught junior developers looking to break out of tutorial loops and acquire production-grade, collaborative systems experience.
 
-* Resilient individuals with the absolute personal schedule flexibility to endure an uninterrupted, high-pressure 4-week onsite selection bootcamp.
-
 * Unemployed or underemployed university graduates looking for a complete, radical career shift.
 
-* Analytical individuals (with backgrounds in math, accounting, physics, chess, etc.) who have never written code but possess massive logical processing capability.
-
-* Individuals with the personal flexibility to endure an intense, highly demanding 1-month immersion camp without distractions.
+* Resilient Individuals with the absolute personal schedule flexibility to endure an intense, uninterrupted, high-pressure, highly demanding 1-month immersive onsite selection bootcamp without distractions & (if selected) 24-months of total commitment to learning.
 
 
 ### 🟥 Not Optimized For:
@@ -221,13 +215,13 @@ If you are evaluating this program as an outsider or prospective applicant, keep
 <br>
 
 **Q: Do I need to know AI before joining?** \
-**A**::   No. We build AI engineers from scratch. If you have the logic and the grit, we provide the AI-native environment to help you master the craft.
+**A**::   No. They build AI engineers from scratch. If you have the logic and the grit, they provide the AI-native environment to help you master the craft.
 
 <br>
 
 **Q: Why the focus on AI?** \
 **A**::   AI is the most significant technological shift since the internet. To be competitive in the global job market, you must be more than a coder; you must be an AI-native engineer. \
-We would get you ready for that future starting today.
+They would get you ready for that future starting today.
 
 <br>
 
@@ -282,7 +276,7 @@ Learn2Earn is an intensive, full-time programme. You are expected to:
 * Be punctual, focused, and engaged
 * Treat the programme like a professional commitment
 
-This level of commitment is essential to achieving the outcomes we promise.
+This level of commitment is essential to achieving the outcomes they promise.
 
 <br>
 
