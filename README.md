@@ -16,7 +16,7 @@ Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem, 
 
 ## 📌 Executive Overview
 
-Learn2Earn.ng is a zero-tuition tech talent accelerator operating physical [campuses across Nigeria](https://github.com/IamAdedo/Learn2Earn/blob/main/campuses.md). The program leverages the **01Edu platform and pedagogy**—honed over 25 years by pioneers like Nicolas Sadirac, to completely eliminate traditional lecture structures, teachers, and classrooms.
+Learn2Earn.ng is a zero-tuition tech talent accelerator operating physical [campuses across Nigeria](https://github.com/IamAdedo/Learn2Earn/blob/main/campuses.md). The program leverages the **01Edu platform and pedagogy**—honed over 25 years by pioneers like __Nicolas Sadirac__, to completely eliminate traditional lecture structures, teachers, and classrooms.
 
 ### The Innovation Behind Learn2Earn
 Learn2Earn was established to bypass these bottlenecks created by formal university credentials completely. Instead of attempting to fix legacy academic pipelines, it introduces a **pure meritocracy engine**. It treats software engineering not as an academic qualification, but as an interactive, high-level trade requiring computational grit, logical alignment, and intense pattern recognition, rather than formal university credentials, the platform isolates raw problem-solving capability. Using a methodology called **Creative Confrontation**, it trains highly autonomous, AI-native developers capable of navigating changing tech landscapes at scale.
