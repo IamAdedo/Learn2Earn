@@ -2,7 +2,7 @@
 
 Mandatory Excercise:        9 \
 Bonus Exercise:             - \
-Optional Exercise:          6 \
+Optional Exercise:          6 
 
 Total:                      15
 
