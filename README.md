@@ -1,11 +1,10 @@
 # Learn2Earn Nigeria
 
 [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Onsite-blueviolet?style=for-the-badge)](https://learn2earn.ng)
-<!-- [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE) -->
 [![Country](https://img.shields.io/badge/Country-Nigeria-green?style=for-the-badge)](https://learn2earn.ng)
 [![Campus](https://img.shields.io/badge/Campus%20Count-22-white?style=for-the-badge)](https://github.com/IamAdedo/Learn2Earn/blob/main/campuses.md)
 [![Focus](https://img.shields.io/badge/Focus-AI%20%26%20FullStack%20Engineering-orange?style=for-the-badge)](https://learn2earn.ng)
-
+<!-- [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE) -->
 
 Learn2Earn.ng is an AI-powered, peer-to-peer digital skills training ecosystem, it combines **01Edu**'s globally recognized, project-based curriculum with **TN Macaulay**'s talent network to prepare you for real-world careers. It is designed to transform raw human tenacity into elite, globally competitive software engineering talent. Operating on a 100% scholarship model, the platform eliminates traditional tuition barriers, identifies high-potential individuals through gamified selection tests, and offers an integrated transition from intensive learning directly into multi-year career pathways, and offers an integrated transition from intensive learning directly into guaranteed 2-year paid job contracts.
 
