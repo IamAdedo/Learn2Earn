@@ -1,8 +1,8 @@
-# Quest 01
+# Quest 07
 
-Mandatory Excercise:        17
-Bonus Exercise:             2
-Optional Exercise:          2
+Mandatory Excercise:        4 \
+Bonus Exercise:             1 \
+Optional Exercise:          2 \
 
-Total:                      21
+Total:                      7
 
